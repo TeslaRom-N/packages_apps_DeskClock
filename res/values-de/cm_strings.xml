@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2012-2015 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Settings summary for the volume buttons setting. -->
+    <string name="volume_buttons_summary">Durch Drücken der Lautstärketasten wird <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">Umlegen Aktion</string>
+
+    <!-- Setting summary for the flip action setting. -->
+    <string name="flip_action_summary" product="tablet">Durch Umlegen des Tablets nach unten wird <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary" product="default">Durch Umlegen des Phones nach unten wird <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Setting title for the shake action setting. -->
+    <string name="shake_action_title">Schüttel Aktion</string>
+
+    <!-- Setting summary for the shake action setting. -->
+    <string name="shake_action_summary" product="tablet">Durch Schütteln des Tablets wird <xliff:g id="action">%s</xliff:g></string>
+    <string name="shake_action_summary" product="default">Schütteln des Phones wird <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Summary texts for shake and flip actions -->
+    <string name="action_summary_snooze">Alarm Schlummerfunktion</string>
+    <string name="action_summary_dismiss">Alarm verwerfen</string>
+    <string name="action_summary_do_nothing">nichts</string>
+
+    <!-- Setting title for accessing the cLock widget settings -->
+    <string name="menu_item_widget_settings">Widget Einstellungen</string>
+    <string name="activity_not_found">Aktivität nicht gefunden!</string>
+
+</resources>
